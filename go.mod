@@ -1,4 +1,4 @@
-module protos
+module github.com/ShlangBaumana/protos_test
 
 go 1.25
 

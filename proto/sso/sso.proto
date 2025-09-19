@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package auth;
 
-option go_package = "protos/gen/go/sso;sso_testv1";
+option go_package = "github.com/ShlangBaumana/protos_test/gen/go/sso;sso_testv1";
 // option go_package = "buf.build/gen/go/bufbuild/protovalidate/protocolbuffers/go/buf/validate";
 // если будет использован инструмент buf.build
 service Auth {
